@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pterodactyl",
+    "name": "",
+    "image": "https://hub.docker.com/r/ccarney16/pterodactyl-panel",
+    "description": "",
+    "categories": [],
+    "platform": "linux",
+    "note": "",
+    "restart_policy": "always",
+    "ports": [],
+    "volumes": [
+      {
+        "container": "",
+        "bind": ""
+      }
+    ],
+    "env": [],
+    "command": [],
+    "devices": [],
+    "labels": [],
+    "sysctls": [],
+    "cap_add": [],
+    "network_mode": "bridge"
+  }
+]
